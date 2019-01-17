@@ -2,7 +2,11 @@ aaaaaaaaaa
 ssssssssss
 dddddddddd
 ffffffffff
+<<<<<<< HEAD
 gggggggggg edit by test
+=======
+gggggggggg edit by master
+>>>>>>> master
 AAAAAAAAAA
 SSSSSSSSSS   !!!!!!!!
 DDDDDDDDDD
